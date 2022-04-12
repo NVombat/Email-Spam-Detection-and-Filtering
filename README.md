@@ -18,7 +18,8 @@ Install above packages and modules using:
 
 ## Workflow
 
-![Screenshot (1019)](https://user-images.githubusercontent.com/60508605/162611188-09871506-7005-4538-b4d6-4bcf2f6cc5f8.png)
+![image](https://user-images.githubusercontent.com/60508605/162937966-a6c0da27-23bb-4201-9d62-aebed585964d.png)
+
 
 ### Data PreProcessing
 Data preprocessing refers to manipulation or dropping of data before it is used in order to ensure enhanced performance. It involves the following:
@@ -56,4 +57,3 @@ The Logistic Regression model gives an accuracy of 0.9659 on the test set while 
 ## Contributors
 * Nikhill Vombatkere
 * Annanya Pandey
-* Pusala Taraka Ramasatyavani
