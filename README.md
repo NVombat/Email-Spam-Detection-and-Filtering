@@ -53,9 +53,8 @@ The Logistic Regression model gives an accuracy of 0.9659 on the test set, Suppo
   `python main.py`
 
 ## Screenshots
-![WhatsApp Image 2022-04-12 at 7 54 20 PM (1)](https://user-images.githubusercontent.com/60508605/162991626-891ec434-ebe8-497f-92f8-ea259ec90824.jpeg)
 ![WhatsApp Image 2022-04-12 at 7 54 20 PM](https://user-images.githubusercontent.com/60508605/162991652-b3e3f837-f805-434d-b3ef-1ff0984329d8.jpeg)
-
+![WhatsApp Image 2022-04-12 at 7 54 20 PM (1)](https://user-images.githubusercontent.com/60508605/162991626-891ec434-ebe8-497f-92f8-ea259ec90824.jpeg)
 
 ## References
 * Spam detection in machine learning: https://towardsdatascience.com/email-spam-detection-1-2-b0e06a5c0472
