@@ -1,7 +1,7 @@
 from sklearn.feature_extraction.text import CountVectorizer
 import pickle
 
-model = pickle.load(open('spam_pred_model.pkl', 'rb'))
+model = pickle.load(open("spam_pred_model.pkl", 'rb'))
 vocab = pickle.load(open("training_vocab.pkl", 'rb'))
 
 email = ["Nah I don't think he goes to usf, he lives around here though"]
