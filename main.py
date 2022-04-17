@@ -10,8 +10,8 @@ app.secret_key = "somekey"
 app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 0
 
 
-model = pickle.load(open('spam_pred_model.pkl', 'rb'))
-vocab = pickle.load(open("training_vocab.pkl", 'rb'))
+model = pickle.load(open('./ml/spam_pred_model.pkl', 'rb'))
+vocab = pickle.load(open("./ml/training_vocab.pkl", 'rb'))
 
 
 @app.route('/', methods=['GET', 'POST'])
